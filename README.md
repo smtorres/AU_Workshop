@@ -18,7 +18,7 @@ Please follow these steps:
 7. Install the rhdf5 package in R. It has to be through Bioconductor and it takes some time. Check this [link](https://bioconductor.org/packages/release/bioc/html/rhdf5.html) for more information.
 8. Download the Functions2ProcessIVW.R file to your computer and remember its location. You can find it in this GitHub site.
 9. Make sure you can access our Google Colab notebooks and copy them to your Drive
- 1. Notebook 1 [here](https://colab.research.google.com/drive/17juHueFZlHjOCGuMWgOgMthLu7grAhCQ?usp=sharing).
- 2. Notebook 2 [here](https://colab.research.google.com/drive/17juHueFZlHjOCGuMWgOgMthLu7grAhCQ?usp=sharing).
+ 1. Notebook 1 [here](https://colab.research.google.com/drive/1CofDOBFQTxsVoBv_qJlGh2LJF6LrZRmk?usp=sharing).
+ 2. Notebook 2 [here](https://colab.research.google.com/drive/1HsWOE4i3qOY8NV0Dn-zdcnDWoV_g18K1?usp=sharing).
  3. Notebook 3 [here](https://colab.research.google.com/drive/17juHueFZlHjOCGuMWgOgMthLu7grAhCQ?usp=sharing).
 
