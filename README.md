@@ -22,3 +22,6 @@ Please follow these steps:
  2. Notebook 2 [here](https://colab.research.google.com/drive/1HsWOE4i3qOY8NV0Dn-zdcnDWoV_g18K1?usp=sharing).
  3. Notebook 3 [here](https://colab.research.google.com/drive/17juHueFZlHjOCGuMWgOgMthLu7grAhCQ?usp=sharing).
 
+## Links
+1. Trump images [link](https://drive.google.com/drive/folders/1xwf2L3yANrc3iIWk-D5kqi1bhHwjw3lf?usp=share_link)
+
